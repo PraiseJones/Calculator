@@ -9,6 +9,7 @@
 
 .bg {
     background: orange;
+    transition: background-color 1s ease-in-out;
 }
 
 .container {
