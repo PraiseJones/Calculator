@@ -81,8 +81,8 @@ form input.operators {
     .calculator form input{
         border: none;
         outline: none;
-        max-width: 65px;
-        height: 80px;
+        width: 55px;
+        height: 75px;
         font-size: 16px;
         margin: 7px;
     }
@@ -95,6 +95,6 @@ form input.operators {
     }
 
     form input#equal {
-        max-width: 135px;
+        width: 123px;
     }
 }
